@@ -1,0 +1,16 @@
+[{
+  "id": 1,
+  "first_name": "Millicent",
+  "last_name": "Ugolini",
+  "email": "mugolini0@ifeng.com",
+  "gender": "Female",
+  "ip_address": "79.235.17.251"
+}, {
+  "id": 2,
+  "first_name": "Arlen",
+  "last_name": "Aime",
+  "email": "aaime1@paginegialle.it",
+  "gender": "Female",
+  "ip_address": "20.232.130.16"
+
+}]
